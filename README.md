@@ -10,4 +10,4 @@
 ![Alucard's GitHub stats](https://github-readme-stats.vercel.app/api?username=alucard-storm&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard-Storm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard-Storm&layout=compact&theme=dracula)
