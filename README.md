@@ -24,3 +24,6 @@
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard-Storm&layout=compact&theme=dracula)
+
+## Profile Visits
+![Profile Views](https://profile-counter.glitch.me/alucard-storm/count.svg)
