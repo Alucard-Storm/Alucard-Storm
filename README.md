@@ -19,6 +19,11 @@
  - 📧 Email: akshaysagar@live.com
 <br>
 
+---
+
+## GitHub Summary
+![alucard-storm's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alucard-storm&theme=tokyonight)
+
 ## 📊 GitHub Stats
 ![Alucard's GitHub stats](https://github-readme-stats.vercel.app/api?username=alucard-storm&show_icons=true&theme=dracula)
 
@@ -26,4 +31,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard-Storm&layout=compact&theme=dracula)
 
 ## Profile Visits
-![Profile Views](https://profile-counter.glitch.me/alucard-storm/count.svg)
+![Profile Visits](https://komarev.com/ghpvc/?username=alucard-storm&color=B026FF&style=for-the-badge)
