@@ -1,8 +1,8 @@
 <div align="center">
 
-[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:ff699B&height=200&section=header&text=Akshay%20Kumar%20Sagar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Assistant%20Professor%20%C2%B7%20SIRT%20Bhopal&descAlignY=55&descColor=ffffff)](https://github.com/Alucard-Storm)
+[![capsule-render](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Akshay%20Kumar%20Sagar&desc=Assistant%20Professor%20%C2%B7%20SIRT%20Bhopal&descAlignY=68&theme=tokyonight)](https://github.com/Alucard-Storm)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Ex-Lenovo+%7C+Ex-ShareIT;M.Tech+CSE+%7C+PG-DAC+(CDAC)+%7C+B.Tech+CSE;Android+Developer+%7C+On-Device+AI+Tinkerer;AOSP+Enthusiast+%7C+Linux+Enthusiast;Assistant+Professor+%40+SIRT+Bhopal)](https://github.com/Alucard-Storm)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Expletus+Sans&pause=1000&color=628FDA&center=true&vCenter=true&width=700&lines=Assistant+Professor+%40+SIRT+Bhopal;Ex-Lenovo+%7C+Ex-ShareIT;M.Tech+CSE+%7C+PG-DAC+(CDAC)+%7C+B.Tech+CSE;AOSP+Enthusiast+%7C+Linux+Enthusiast;Android+Developer+%7C+On-Device+AI+Tinkerer)](https://github.com/Alucard-Storm)
 
 **Assistant Professor · SIRT Bhopal**
 
