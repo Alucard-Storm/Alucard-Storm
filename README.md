@@ -2,6 +2,7 @@
 <br>
 
 ## 🚀 About Me
+- 🐧 Linux and AOSP Enthusiast 
 - 🔭 I’m currently working on Xiaomi Mi 11x Pro and Lenovo P2
 - 🌱 I’m currently learning Adobe XD and Creative Coding using JS
 - ~~👯 I’m looking to collaborate on WOA for SD888 & 855~~ both devices are dead.
