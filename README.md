@@ -1,10 +1,12 @@
 <div align="center">
 
-# Akshay Kumar Sagar
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:ff699B&height=200&section=header&text=Akshay%20Kumar%20Sagar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Assistant%20Professor%20%C2%B7%20SIRT%20Bhopal&descAlignY=55&descColor=ffffff)](https://github.com/Alucard-Storm)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Ex-Lenovo+%7C+Ex-ShareIT;M.Tech+CSE+%7C+PG-DAC+(CDAC)+%7C+B.Tech+CSE;Android+Developer+%7C+On-Device+AI+Tinkerer;AOSP+Enthusiast+%7C+Linux+Enthusiast;Assistant+Professor+%40+SIRT+Bhopal)](https://github.com/Alucard-Storm)
 
 **Assistant Professor · SIRT Bhopal**
 
-*Ex-Lenovo · Ex-SHAREIT · M.Tech CSE · PG-DAC (CDAC) · B.Tech CSE · Android Developer · On-Device AI Tinkerer*
+*Ex-Lenovo · Ex-ShareIT · M.Tech CSE · PG-DAC (CDAC) · B.Tech CSE · Android Developer · On-Device AI Tinkerer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-sagar-5982632b/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Alucard_Storm)
@@ -121,7 +123,19 @@ Device maintainer and contributor across multiple custom ROM organizations.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alucard-Storm&theme=tokyonight&hide_border=true)](https://github.com/Alucard-Storm)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alucard-Storm&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Alucard-Storm)
+
 ![Profile Visits](https://komarev.com/ghpvc/?username=alucard-storm&color=B026FF&style=flat)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Alucard-Storm/Alucard-Storm/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
