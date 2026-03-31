@@ -8,12 +8,15 @@
 
 *Ex-Lenovo · Ex-ShareIT · M.Tech CSE · PG-DAC (CDAC) · B.Tech CSE · Android Developer · On-Device AI Tinkerer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-sagar-5982632b/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Alucard_Storm)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/akshay-sagar-5982632b/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=pyzwcZIAAAAJ&hl=en)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/XiaoAkay)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akay_sagar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](http://akshay-sagar.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshaysagar@live.com)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=fff)](https://gitlab.com/Alucard_Storm)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/alucard-Storm/) ![Profile Visits](https://komarev.com/ghpvc/?username=alucard-storm&color=B026FF&style=flat)
 
 </div>
 
@@ -138,8 +141,6 @@ Device maintainer and contributor across multiple custom ROM organizations.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alucard-Storm&theme=tokyonight&hide_border=true)](https://github.com/Alucard-Storm)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alucard-Storm&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Alucard-Storm)
-
-![Profile Visits](https://komarev.com/ghpvc/?username=alucard-storm&color=B026FF&style=flat)
 
 </div>
 
