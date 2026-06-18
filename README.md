@@ -133,13 +133,9 @@ Device maintainer and contributor across multiple custom ROM organizations.
 
 <div align="center">
 
-![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alucard-storm&theme=tokyonight)
+![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alucard-storm&theme=tokyonight) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard-Storm&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Alucard-Storm)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alucard-storm&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Alucard-Storm)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucard-Storm&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Alucard-Storm)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alucard-Storm&theme=tokyonight&hide_border=true)](https://github.com/Alucard-Storm)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alucard-storm&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Alucard-Storm) [![GitHub Streak](https://streak-stats.demolab.com?user=Alucard-Storm&theme=tokyonight&hide_border=true)](https://github.com/Alucard-Storm)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alucard-Storm&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Alucard-Storm)
 
