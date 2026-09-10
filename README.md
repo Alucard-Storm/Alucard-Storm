@@ -141,7 +141,7 @@ Device maintainer and contributor across multiple custom ROM organizations.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alucard-Storm&theme=tokyonight&hide_border=true)](https://github.com/Alucard-Storm)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alucard-Storm&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Alucard-Storm)
+[![Activity Graph](https://github.com/Alucard-Storm/github-readme-activity-graph/blob/main/generated/activity-graph.svg)](https://github.com/Alucard-Storm)
 
 </div>
 
